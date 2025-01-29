@@ -1,0 +1,7 @@
+function skillsMember() {
+  return {
+    skills: ['JavaScript', 'Python', 'HTML', 'CSS', 'Node.js', 'React', 'MongoDB', 'MySQL', 'PostgreSQL', 'Express', 'Sequelize', 'Mongoose', 'jQuery', 'Bootstrap', 'Materialize', 'Handlebars', 'RESTful APIs', 'GraphQL', 'AJAX', 'JSON', 'APIs', 'OOP', 'ORM', 'MVC', 'CRUD', 'Git', 'GitHub', 'Heroku', 'JawsDB', 'Firebase', 'OAuth', 'OAuth2.0', 'Passport.js', 'Google Cloud Platform', 'Jest', 'Mocha', 'Chai', 'MySQL Workbench', 'Robo 3T', 'VS Code', 'Sublime Text', 'Adobe Creative Suite', 'Microsoft Office Suite', 'Responsive Design', 'Mobile-First Design', 'Progressive Web Applications', 'Web Accessibility', 'Progressive Web Applications', 'Web Accessibility', 'SEO', 'Web Performance', 'Web Security', 'Version Control', 'Agile', 'Scrum', 'Kanban', 'JIRA', 'Slack', 'Trello', 'Zoom', 'WebSockets', 'Socket.io', 'WebRTC', 'Docker', 'Kubernetes', 'AWS', 'Azure', 'Google Cloud', 'CI/CD', 'WebPack', 'Babel', 'NPM', 'Yarn', 'Postman', 'Insomnia', 'Swagger', 'Figma', 'Sketch', 'InVision', 'Zeplin', 'Adobe XD', 'Axure', 'Lucidchart', 'FlowMapp', 'Trello', 'Asana', 'Monday', 'Notion', 'Airtable', 'Google Workspace', 'Slack', 'Zoom', 'Microsoft Teams', 'Discord', 'WebEx', 'Jitsi Meet', 'Google Meet', 'Skype', 'Microsoft Teams', 'Zoom', 'Slack', 'Discord', 'WebEx', 'Jitsi Meet', 'Google Meet', 'Skype', 'Microsoft Teams', 'Zoom', 'Slack', 'Discord', 'WebEx', 'Jitsi Meet', 'Google Meet', 'Skype', 'Microsoft Teams', 'Zoom', 'Slack', 'Discord', 'WebEx', 'Jitsi Meet', 'Google Meet'
+    ]
+
+  };
+}
